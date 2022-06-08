@@ -42,10 +42,6 @@ useEffect(()=>{
     setError(true);
   })
 
-  return ()=>{
-    console.log("first");
-    
-  }
 },[loading,request])
 
 
