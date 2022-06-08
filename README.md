@@ -1,3 +1,7 @@
+# Making An React App which shows how to fetch data with axios from https://jsonplaceholder.typicode.com
+![fetch-data-with-axios](fetch_data_with_axios.gif "Fetching data with axios")
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
